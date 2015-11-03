@@ -11,7 +11,6 @@ To edit the documentation, there are several requirements
 .. toctree::
    :maxdepth: 2
    
-   index
    github
    readthedocs
    basicdocs 

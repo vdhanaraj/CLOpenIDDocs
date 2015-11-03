@@ -14,5 +14,5 @@ To edit the documentation, there are several requirements
    index
    github
    readthedocs
+   basicdocs 
 
-   

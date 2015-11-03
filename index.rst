@@ -13,5 +13,4 @@ To edit the documentation, there are several requirements
    
    github
    readthedocs
-   basicdocs 
 
